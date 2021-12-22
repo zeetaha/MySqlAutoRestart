@@ -1,4 +1,4 @@
-# MySqlAutoRestart
+# MySqlAutoRestart (auto-restart-mysql)
 This script will auto restart your application within a minute if mysql down.
 
 # Follow the below steps
