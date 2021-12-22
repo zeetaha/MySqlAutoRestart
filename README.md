@@ -25,4 +25,5 @@ fi
 7. Add a new cron with command ``sudo crontab -e``
 8. And add below command
 9. ```* * * * * /home/scripts/monitor_restart_mysql.sh  >> /home/scripts/script.log 2>&1```
+10. Vrify by checking the script.log file.
 
