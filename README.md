@@ -7,7 +7,7 @@ This script will auto restart your application within a minute if mysql down.
 3. cd /home/scripts
 4. Create a new bash file ``Sudo nano monitor_restart_mysql.sh``
 5. Change permission of above file ``chmod +x monitor_restart_mysql.sh``
-6. Paste the below code 
+6. Paste the below code or copy from  monitor_restart_mysql.sh
 
 #Code
 ```
